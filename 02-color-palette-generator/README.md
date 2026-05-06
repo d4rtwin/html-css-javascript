@@ -1,9 +1,16 @@
-🎨 Color Palette Generator
+# Color Palette Generator
 
-A simple web app that generates random color palettes using JavaScript.
+Simple app to generate random colors.
 
-🚀 Features
-Generate random color palettes
-Copy HEX color codes
-Refresh palette instantly
-🛠️ Technologies
+## Features
+
+* Random colors
+* Copy HEX code
+
+## Tech
+
+HTML, CSS, JavaScript
+
+## Run
+
+Open `index.html`
