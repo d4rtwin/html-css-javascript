@@ -1,8 +1,17 @@
 # Quiz Game
 
-Simple quiz game using HTML, CSS, JavaScript.
+Simple quiz game built with JavaScript.
 
 ## Features
-- Start quiz
-- Show questions
-- Score system
+
+* Start quiz
+* Show questions
+* Calculate score
+
+## Tech
+
+HTML, CSS, JavaScript
+
+## Run
+
+Open `index.html`
