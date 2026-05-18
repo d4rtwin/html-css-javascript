@@ -347,3 +347,14 @@ h3 {
 .btn-accent {
   animation: pulse 2s infinite;
 }
+
+.selected {
+  border: 2px solid var(--primary-color);
+  transform: translateY(-10px);
+  box-shadow: 0 0 25px rgba(74, 222, 128, 0.4);
+}
+
+.selected .btn {
+  background-color: var(--primary-color);
+  color: #000;
+}
